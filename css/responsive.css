@@ -72,3 +72,14 @@
     margin-right: -30px;
   }
 }
+
+
+@media (max-width: 520px){
+  .qr-section-1 .head-block-2 h4{
+    text-align: center;
+  }
+
+  .qr-section-1 .block{
+    justify-content: center;
+  }
+}

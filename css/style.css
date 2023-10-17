@@ -1272,11 +1272,14 @@ body.vegas-container > .vegas-slide {
   display: block;
 }
 
-.qr-section-1 .head-block-2 h4{}
+.qr-section-1 .head-block-2 h4{
+  font-weight: bold;
+}
 
 .qr-section-1 button{
       border: 1px solid #cccccc;
     background: rgba(59, 89, 151, 0.1);
+    margin-bottom: 15px;
 }
 
 .qr-section-1 button .image-block-3{
