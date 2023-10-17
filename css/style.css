@@ -1221,6 +1221,14 @@ body.vegas-container > .vegas-slide {
   width: 100%;
 }
 
+.qr-section .link-button{
+  text-align: center;
+}
+
+.qr-section .link-button a{
+  display: block;
+}
+
 .qr-section-1 {
   overflow: scroll;
   max-width: 800px;
